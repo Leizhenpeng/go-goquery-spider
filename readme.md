@@ -4,6 +4,6 @@
 ![img.png](doc/img.png)
 
 ## 相关链接
-- [goQuery](https://github.com/jaeles-project/gospider)
+- [goQuery](https://github.com/PuerkitoBio/goquery)
 - [curl-to-go](https://www.scrapingbee.com/curl-converter/go/)
 - [zuel library info](http://202.114.238.250/XSTB/xstb_left)
